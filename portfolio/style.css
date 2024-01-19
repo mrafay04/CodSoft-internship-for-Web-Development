@@ -102,6 +102,13 @@ div {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 3vh;
 }
+#resume{
+    display: flex;
+    justify-content: center;
+    position:relative;
+    top: 8vh;
+    font-size: 3vh; 
+}
 #Services p{
     display: flex;
     justify-content: flex-start;
@@ -176,6 +183,10 @@ div {
     }
     #Contact a{
         font-size: 17px;
+    }
+     #resume a{
+        font-size: 14px;
+
     }
     .link{
         font-size: 17px;
